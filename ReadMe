@@ -1,0 +1,3 @@
+Himanshu Chaudhary
+
+The pathFiner (main class) takes n+1 parameters, the first one is the dictionary path and others are pair of words whose path needs to be found.
